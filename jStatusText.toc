@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: jStatusText
+## Notes: Add status text to Blizzard nameplates
+## Version: 1.0
+## Author: jwldnr
+
+jStatusText.lua
